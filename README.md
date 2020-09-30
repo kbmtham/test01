@@ -1,4 +1,4 @@
-# test repository for thursday
+# Automated Website - based on as Repository! Mind-blowing!
 test repository
 
 [kbmtham.txt](kbmtham.txt)
